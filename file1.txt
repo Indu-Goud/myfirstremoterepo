@@ -1,2 +1,4 @@
 this is my first remote repo
 this is my second line in my remote repo
+this is my third line added from local machine
+this is fourth line added from git bash 
